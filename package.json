@@ -16,7 +16,7 @@
     "РусскийСтандартБанк"
   ],
   "publishConfig": {
-    "@koreets61:ict": "https://npm.pkg.github.com"
+    "@koreets61:rsbqr": "https://npm.pkg.github.com"
   },
   "author": "koreets61@gmail.com",
   "license": "UNLICENSED",
